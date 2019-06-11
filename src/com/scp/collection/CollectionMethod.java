@@ -11,17 +11,24 @@ import java.util.List;
 public class CollectionMethod {
 
 	public static void main(String[] args) {
+		
+		System.out.println("");
 				
 		System.out.println("inside main");
 		 List<Integer> l1 = new ArrayList<Integer>(); 
 	        l1.add(0, 1);  // adds 1 at 0 index 
 	        l1.add(1, 2);  // adds 2 at 1 index 
 	        System.out.println("new one");
+	        
+	        
+	        
+	        
 	       
 	        System.out.println(l1);  // [1, 2] 
 	        System.out.println("added new");
 	        
 	        ///newwwww
+	        //newwww
 	  
 	        // Creating another list 
 	        List<Integer> l2 = new ArrayList<Integer>(); 
