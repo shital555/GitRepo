@@ -18,6 +18,7 @@ public class CollectionMethod {
 	        l1.add(1, 2);  // adds 2 at 1 index 
 	       
 	        System.out.println(l1);  // [1, 2] 
+	        System.out.println("added new");
 	  
 	        // Creating another list 
 	        List<Integer> l2 = new ArrayList<Integer>(); 
