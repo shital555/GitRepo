@@ -12,6 +12,10 @@ public class CollectionMethod {
 
 	public static void main(String[] args) {
 		// inside main of collection method class
+		// ajun ek comment
+		
+		
+		
 		
 		System.out.println("inside main");
 		 List<Integer> l1 = new ArrayList<Integer>(); 
